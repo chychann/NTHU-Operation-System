@@ -1,2 +1,2 @@
 # NTHU-Operation-System
-The hw of NTHU OS course.
+[CourseWork] 10810CS342301 Operating System
